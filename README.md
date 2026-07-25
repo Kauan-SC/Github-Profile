@@ -46,5 +46,5 @@
 
 ---
 
-![snake gif](https://github.com/Kauan-SC/Kauan-SC/blob/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Kauan-SC/Kauan-SC/output/dist/github-snake-dark.svg)
 
