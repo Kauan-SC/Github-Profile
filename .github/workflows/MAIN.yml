@@ -2,6 +2,7 @@ name: Generate Snake
 
 permissions:
   contents: write
+  workflows: write
 
 on:
   schedule:
