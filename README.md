@@ -27,9 +27,22 @@
 
 ## 📘 My Top Open Source Projects
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Kauan-SC&repo=Kauan-SC/Jornada-Matte---Python-Automation&description_lines_count=3&theme=dark)](https://github.com/Kauan-SC/Jornada-Matte---Python-Automation)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Kauan-SC&repo=Kauan-SC/Github-Notifications&description_lines_count=3&theme=dark)](https://github.com/Kauan-SC/Github-Notifications)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Kauan-SC/Jornada-Matte---Python-Automation">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=Kauan-SC&repo=Kauan-SC/Jornada-Matte---Python-Automation&description_lines_count=3&theme=dark" alt="Jornada Matte - Python Automation" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Kauan-SC/Github-Notifications">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=Kauan-SC&repo=Kauan-SC/Github-Notifications&description_lines_count=3&theme=dark" alt="Github Notifications" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
